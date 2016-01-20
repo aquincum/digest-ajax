@@ -1,0 +1,19 @@
+{
+  "name": "digest-ajax",
+  "version": "1.0.0",
+  "description": "digest-ajax ===========",
+  "main": "digest-ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aquincum/digest-ajax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquincum/digest-ajax/issues"
+  },
+  "homepage": "https://github.com/aquincum/digest-ajax#readme"
+}
